@@ -1,0 +1,3 @@
+/home/yukir/CLionProjects/HuffmanArchiver/CMakeFiles/HuffmanArchiver.dir
+/home/yukir/CLionProjects/HuffmanArchiver/CMakeFiles/edit_cache.dir
+/home/yukir/CLionProjects/HuffmanArchiver/CMakeFiles/rebuild_cache.dir

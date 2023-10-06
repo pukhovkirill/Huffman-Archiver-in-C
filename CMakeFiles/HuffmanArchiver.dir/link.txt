@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/HuffmanArchiver.dir/main.c.o CMakeFiles/HuffmanArchiver.dir/huffman/alph_freq.c.o CMakeFiles/HuffmanArchiver.dir/huffman/huffman_tree.c.o CMakeFiles/HuffmanArchiver.dir/priority_queue/binary_heap.c.o CMakeFiles/HuffmanArchiver.dir/priority_queue/priority_queue.c.o -o HuffmanArchiver 
